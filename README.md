@@ -20,11 +20,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,tailwind,shopify,liquid,mongodb,mysql,git,github,figma,vscode" />
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=k-ankush07&show_icons=true&theme=radical" alt="k-ankush07" />
-</p>
-
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-ankush07&theme=radical" alt="k-ankush07" />
 </p>
