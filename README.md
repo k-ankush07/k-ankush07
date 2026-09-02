@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Ankush Kumar 👋</h1>
-<h3 align="center">Shopify Expert | Full Stack Developer | eCommerce Solutions Architect</h3>
+<h1 align="center">Hi, I'm Ankush Kumar 👋</h1>
+<h3 align="center">Shopify Expert · Full Stack Developer · eCommerce Solutions Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Building+scalable+Shopify+apps+%26+custom+themes;CRO-focused+eCommerce+stores;Custom+Checkout+%26+Storefront+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=700&lines=Building+scalable+Shopify+apps+%26+custom+themes;CRO-focused+eCommerce+storefronts;Custom+Checkout+%26+Headless+Commerce+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,12 +19,13 @@
 
 ### 👨‍💻 About Me
 
-- 🛠️ I build **scalable Shopify apps**, **custom themes**, and **conversion-optimized storefronts**
+I help brands turn slow, underperforming Shopify stores into fast, high-converting ones. My focus areas:
+
+- 🛠️ Building **scalable Shopify apps**, **custom themes**, and **conversion-optimized storefronts**
 - 🧩 Specialized in **custom checkout flows**, **theme customization**, and **headless commerce**
-- 🌱 Currently deepening my expertise in **Shopify Functions** and **Hydrogen (headless storefronts)**
-- 💬 Ask me about: Shopify app development • Liquid • Checkout extensibility • Store performance/CRO
-- 📫 Reach me at: **ankush@ecombithub.com**
-- ⚡ Fun fact: I turn slow, clunky stores into fast, high-converting ones
+- 🌱 Currently deepening expertise in **Shopify Functions** and **Hydrogen** (headless storefronts)
+- 💬 Ask me about: Shopify app development · Liquid · Checkout extensibility · Store performance & CRO
+- 📫 Reach me at **ankush@ecombithub.com**
 
 ---
 
@@ -51,18 +52,20 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>🛒 Custom Shopify Theme</h4>
       <p>Fully custom, high-conversion theme built with Liquid, JS, and Tailwind — optimized for speed and mobile UX.</p>
+      <!-- <a href="LINK_TO_REPO_OR_CASE_STUDY">View case study →</a> -->
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>⚙️ Shopify App</h4>
       <p>Embedded Shopify app using Node.js, React, and Shopify Polaris to automate merchant workflows.</p>
+      <!-- <a href="LINK_TO_REPO_OR_CASE_STUDY">View case study →</a> -->
     </td>
   </tr>
 </table>
 
-> 📌 Replace the cards above with links to your real repos/case studies — pinning your top repos on your profile also works great alongside this.
+<p align="center"><sub>💡 Add links to real repos or case studies above — pinning your top repos on your profile works great alongside this.</sub></p>
 
 ---
 
@@ -70,14 +73,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=k-ankush07&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ankush's GitHub stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=k-ankush07&theme=radical&hide_border=true" alt="k-ankush07 streak" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=k-ankush07&theme=radical&hide_border=true" alt="Ankush's GitHub streak" width="48%"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-ankush07&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
 </p>
-
-> ⚠️ **Agar koi stats card yahan broken dikhe (sirf alt-text/link show ho):** ye shared Vercel API kabhi-kabhi rate-limit ho jaata hai — GitHub page ko refresh karo, usually 1-2 min me theek ho jaata hai. Permanent fix ke liye [apna khud ka instance yahan se deploy karo](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) (free, 5 min ka kaam) aur uska URL use karo — kabhi break nahi hoga.
 
 ---
 
@@ -95,13 +96,11 @@
   <img src="https://raw.githubusercontent.com/k-ankush07/k-ankush07/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
-> ℹ️ Ye snake animation apne aap generate hoti hai ek GitHub Action se. Isko enable karne ke liye apne repo me `.github/workflows/snake.yml` add karna hoga — chaho to main iska poora setup bhi bana ke de sakta hoon.
-
 ---
 
 ### 🎯 Currently Working On
 
-- 🔭 Building a **headless Shopify storefront** using Hydrogen + React
+- 🏗️ Building a **headless Shopify storefront** using Hydrogen + React
 - 🛍️ Optimizing checkout UX for a client's high-traffic Shopify store
 - 📚 Learning **Shopify Functions** for custom discount & shipping logic
 
@@ -111,10 +110,10 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/ankush-kumar-83b398250" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ankush@ecombithub.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
