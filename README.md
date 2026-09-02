@@ -82,14 +82,6 @@ I help brands turn slow, underperforming Shopify stores into fast, high-converti
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=k-ankush07&theme=radical&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies"/>
-</p>
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
