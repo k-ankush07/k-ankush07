@@ -2,7 +2,7 @@
 <h3 align="center">Shopify Expert · Full Stack Developer · eCommerce Solutions Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=700&lines=Helping+Shopify+brands+ship+faster%2C+convert+better;Custom+checkout+flows+%26+headless+commerce+solutions;Building+scalable+apps+with+Node.js%2C+React+%26+GraphQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Shopify+Solutions+Architect;5%2B+years+building+scalable+eCommerce+platforms;Turning+underperforming+stores+into+revenue+engines" alt="Typing SVG" />
 </p>
 
 <p align="center">
