@@ -54,7 +54,6 @@ I help brands turn slow, underperforming Shopify stores into fast, high-converti
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
----
 
 ### 🚀 Featured Work
 
