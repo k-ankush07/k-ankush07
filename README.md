@@ -2,7 +2,7 @@
 <h3 align="center">Shopify Expert · Full Stack Developer · eCommerce Solutions Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=700&lines=Building+scalable+Shopify+apps+%26+custom+themes;CRO-focused+eCommerce+storefronts;Custom+Checkout+%26+Headless+Commerce+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=700&lines=Building+scalable+Shopify+apps+%26+custom+themes;CRO-focused+eCommerce+storefronts;Custom+Checkout+%26+Headless+Commerce+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@ I help brands turn slow, underperforming Shopify stores into fast, high-converti
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=k-ankush07&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=k-ankush07&theme=radical&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
 ---
