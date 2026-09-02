@@ -72,12 +72,12 @@ I help brands turn slow, underperforming Shopify stores into fast, high-converti
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k-ankush07&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ankush's GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats-x96a.vercel.app/api?username=k-ankush07&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ankush's GitHub stats" width="48%"/>
   <img src="https://streak-stats.demolab.com/?user=k-ankush07&theme=radical&hide_border=true" alt="Ankush's GitHub streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-ankush07&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats-x96a.vercel.app/api/top-langs/?username=k-ankush07&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
 </p>
 
 ---
