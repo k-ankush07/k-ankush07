@@ -31,8 +31,6 @@ I help brands turn slow, underperforming Shopify stores into fast, high-converti
 
 ### 🧰 Tech Stack
 
-### 🧰 Tech Stack
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,graphql,mongodb,mysql,postgres,redis,firebase,prisma,docker,aws,vercel,python,git,github,githubactions,npm,postman,linux,vim,sass,figma,vscode" />
 </p>
