@@ -69,13 +69,41 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k-ankush07&show_icons=true&theme=radical&hide_border=true" alt="Ankush's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-ankush07&theme=radical&hide_border=true" alt="k-ankush07 streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=k-ankush07&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ankush's GitHub stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=k-ankush07&theme=radical&hide_border=true" alt="k-ankush07 streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-ankush07&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-ankush07&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
 </p>
+
+> ⚠️ **Agar koi stats card yahan broken dikhe (sirf alt-text/link show ho):** ye shared Vercel API kabhi-kabhi rate-limit ho jaata hai — GitHub page ko refresh karo, usually 1-2 min me theek ho jaata hai. Permanent fix ke liye [apna khud ka instance yahan se deploy karo](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) (free, 5 min ka kaam) aur uska URL use karo — kabhi break nahi hoga.
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=k-ankush07&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/k-ankush07/k-ankush07/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+> ℹ️ Ye snake animation apne aap generate hoti hai ek GitHub Action se. Isko enable karne ke liye apne repo me `.github/workflows/snake.yml` add karna hoga — chaho to main iska poora setup bhi bana ke de sakta hoon.
+
+---
+
+### 🎯 Currently Working On
+
+- 🔭 Building a **headless Shopify storefront** using Hydrogen + React
+- 🛍️ Optimizing checkout UX for a client's high-traffic Shopify store
+- 📚 Learning **Shopify Functions** for custom discount & shipping logic
 
 ---
 
