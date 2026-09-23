@@ -22,6 +22,20 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      - name: Trim top gap in SVG
+        run: |
+          python3 - <<'EOF'
+          import re
+          for f in ["dist/github-snake.svg", "dist/github-snake-dark.svg"]:
+              s = open(f).read()
+              tag = re.search(r'<svg[^>]*>', s).group(0)
+              x, y, w, h = map(float, re.search(r'viewBox="([^"]+)"', tag).group(1).split())
+              nh = h + y  # y negative hai, isliye height kam hogi
+              new = re.sub(r'viewBox="[^"]+"', f'viewBox="{x:g} 0 {w:g} {nh:g}"', tag)
+              new = re.sub(r'(?<![\w-])height="[^"]+"', f'height="{nh:g}"', new)
+              open(f, "w").write(s.replace(tag, new, 1))
+          EOF
+
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
