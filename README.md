@@ -43,3 +43,4 @@
   <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/figma.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
     <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/jqary.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
 </div>
+<a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Frame%2014.png" alt="GitHub Dashboard" width="100%" /></a>
