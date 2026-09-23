@@ -1,5 +1,3 @@
-<div style="background-color: #000000; padding: 20px;">
-
 <img src="https://ankush.bio/assets1/maingithub.png" alt="GitHub Dashboard" width="100%" />
 
 <p>
@@ -15,5 +13,3 @@
     <img src="https://ankush.bio/assets1/whatsapp.png" alt="WhatsApp" height="40" />
   </a>
 </p>
-
-</div>
