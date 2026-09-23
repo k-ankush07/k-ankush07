@@ -23,4 +23,9 @@
   <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/scss.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
   <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/sass.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
   <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/tailwind.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/php.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/js.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/type.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/react.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/next.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
 </div>
