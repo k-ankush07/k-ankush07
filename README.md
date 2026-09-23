@@ -4,8 +4,9 @@
 I'm Ankush, a Web Developer and conversion specialist passionate about building and scaling brands.
 
 📚 Constantly learning more and improving my skills in web development, user experience, analytics, and new technologies.
+I'm Ankush, a Web Developer and conversion specialist passionate about building and scaling brands.
 
-
+📚 Constantly learning more and improving my skills in web development, user experience, analytics, and new technologies.
 
 🎨 Specialized in custom checkout flows, theme customization, and headless commerce
 
