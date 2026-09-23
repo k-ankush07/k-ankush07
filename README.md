@@ -3,7 +3,10 @@
 <h3><img src="https://ankush.bio/assets1/bolt.png" alt="bolt icon" width="24" height="24" style="vertical-align: middle;" /> About us</h3>
 I'm Ankush, a Web Developer and conversion specialist passionate about building and scaling brands.
 
-📚 Constantly learning more and improving my skills in web development, user experience, analytics, and new technologies.  
-🎨 Specialized in custom checkout flows, theme customization, and headless commerce  
-🧪 Testing ideas that make websites easier and more enjoyable for users.  
+📚 Constantly learning more and improving my skills in web development, user experience, analytics, and new technologies.
+
+🎨 Specialized in custom checkout flows, theme customization, and headless commerce
+
+🧪 Testing ideas that make websites easier and more enjoyable for users.
+
 🔗 My projects: [ankush.bio/work](https://ankush.bio/work)
