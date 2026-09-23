@@ -19,8 +19,8 @@
 <h3><img src="https://ankush.bio/assets1/bolt.png" alt="bolt icon" width="24" height="24" style="vertical-align: middle;" /> Technologies I Work With</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/html.png" alt="GitHub Dashboard" width="18%" /></a>
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/html.png" alt="GitHub Dashboard" width="18%" /></a>
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/html.png" alt="GitHub Dashboard" width="18%" /></a>
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/html.png" alt="GitHub Dashboard" width="18%" /></a>
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/html.png" alt="GitHub Dashboard" width="18%" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/css.png" alt="GitHub Dashboard" width="18%" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/scss.png" alt="GitHub Dashboard" width="18%" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/sass.png" alt="GitHub Dashboard" width="18%" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/tailwind.png" alt="GitHub Dashboard" width="18%" /></a>
 </div>
