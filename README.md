@@ -19,4 +19,8 @@
 <h3><img src="https://ankush.bio/assets1/bolt.png" alt="bolt icon" width="24" height="24" style="vertical-align: middle;" /> Technologies I Work With</h3>
 <div>
   <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/html.png" alt="GitHub Dashboard" width="100%" /></a>
+    <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/html.png" alt="GitHub Dashboard" width="100%" /></a>
+    <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/html.png" alt="GitHub Dashboard" width="100%" /></a>
+    <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/html.png" alt="GitHub Dashboard" width="100%" /></a> 
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/html.png" alt="GitHub Dashboard" width="100%" /></a>
 </div>
