@@ -48,7 +48,7 @@
   <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Frame%2014.png" alt="GitHub Dashboard" width="100%" /></a>
 </div>
 
-<h3><img src="https://ankush.bio/assets1/bolt.png" alt="bolt icon" width="24" height="24" /> Contribution Graph</h3>
+<h3><img src="https://ankush.bio/assets1/Group%201707480540.png" alt="bolt icon" width="24" height="24" /> Contribution Graph</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/k-ankush07/k-ankush07/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k-ankush07/k-ankush07/output/github-snake.svg" />
