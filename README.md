@@ -13,3 +13,5 @@
 🔗 My projects: [ankush.bio/work](https://ankush.bio/work)
 
 </div>
+
+<a href="https://www.animatedimages.org/cat-lines-562.htm" target="_blank"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0447.gif" border="0" height="2" width="100%" alt="animated-line-image-0447" /></a>
