@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://ankush.bio">
-    <img src="https://ankush.bio/assets1/view-portfolio.png" alt="View Portfolio" height="40" />
+    <img src="https://ankush.bio/assets1/profile" alt="View Portfolio" height="40" />
   </a>
 
   <a href="https://www.linkedin.com/in/ankush-kumar-83b398250/">
