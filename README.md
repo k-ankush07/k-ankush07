@@ -3,4 +3,5 @@
 <div style="display: flex; align-items: center; gap: 6px;">
   <img src="https://ankush.bio/assets1/bolt.png" alt="bolt icon" width="26" height="26" />
   <strong style="font-size: 20px; font-weight: 700; line-height: 32px;">About us</strong>
+  
 </div>
