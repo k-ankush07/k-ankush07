@@ -50,5 +50,5 @@
 
 <h3><img src="https://ankush.bio/assets1/bolt.png" alt="bolt icon" width="24" height="24" style="vertical-align: middle;" /> Contribution Graph</h3>
 <a href="https://github.com/k-ankush07" target="_blank">
-  <img src="https://ghchart.rshah.org/2ea44f/ankushkumar" alt="GitHub Contribution Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/2ea44f/k-ankush07" alt="GitHub Contribution Graph" width="100%" />
 </a>
