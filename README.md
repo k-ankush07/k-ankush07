@@ -47,3 +47,8 @@
 <div>
   <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Frame%2014.png" alt="GitHub Dashboard" width="100%" /></a>
 </div>
+
+<h3><img src="https://ankush.bio/assets1/bolt.png" alt="bolt icon" width="24" height="24" style="vertical-align: middle;" /> Contribution Graph</h3>
+<a href="https://github.com/k-ankush07" target="_blank">
+  <img src="https://ghchart.rshah.org/2ea44f/ankushkumar" alt="GitHub Contribution Graph" width="100%" />
+</a>
