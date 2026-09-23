@@ -18,30 +18,30 @@
 
 <h3><img src="https://ankush.bio/assets1/bolt.png" alt="bolt icon" width="24" height="24" style="vertical-align: middle;" /> Technologies I Work With</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/html.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/css.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/scss.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/sass.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/tailwind.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/php.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/js.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/type.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/react.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/next.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/vue.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/angular.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/node.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/experess.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/graph.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/mongo.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/git.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/python.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/alpine.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
-   <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/ruby.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/laravel.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/docker.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
-  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/figma.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
-    <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/jqary.png" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Express.js.webp" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Express.js-1.webp" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Express.js-2.webp" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Express.js-3.webp" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Express.js-4.webp" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Express.js-5.webp" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Express.js-6.webp" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Express.js-7.webp" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Express.js-8.webp" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Express.js-9.webp" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Express.js-10.webp" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Express.js-11.webp" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Express.js-12.webp" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Express.js-13.webp" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Express.js-14.webp" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Express.js-15.webp" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Express.js-16.webp" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Express.js-17.webp" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Express.js-18.webp" alt="GitHub Dashboard" height="36" width="auto" /></a>
+   <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Express.js-19.webp" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Express.js-20.webp" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Express.js-21.webp" alt="GitHub Dashboard" height="36" width="auto" /></a>
+  <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Express.js-22.webp" alt="GitHub Dashboard" height="36" width="auto" /></a>
+    <a href="https://ankush.bio" target="_blank"><img src="https://ankush.bio/assets1/Express.js-23.webp" alt="GitHub Dashboard" height="36" width="auto" /></a>
 </div>
 <br>
 <div>
